@@ -1,2 +1,1 @@
-# trexaColor
-clase 18 v2
+# PROC18_LP_AM1
